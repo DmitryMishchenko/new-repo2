@@ -5,5 +5,5 @@ console.log('from test branch #2');
 
 
 function sum(a, b, c) {
-    return a + b + c;
+    return a + b + c + 10;
 }
